@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://www.ource.org/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>https://www.ource.org/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.ource.org/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.ource.org/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.ource.org/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.ource.org/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
