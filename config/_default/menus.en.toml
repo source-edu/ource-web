@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Facebook"
+url = "https://www.facebook.com/profile.php?id=61576756468234"
+identifier = "CJzgcnxPbT"
+weight = 9_999
+
+[[footer]]
+name = "LinkedIn"
+url = "http://linkedin.com/company/ource"
+identifier = "hk4KKm6mrV"
+weight = 9_999
